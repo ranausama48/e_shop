@@ -21,6 +21,7 @@ function App() {
           </PrivateRoute>
         </Switch>
       </Router>
+      <Layout>Usma</Layout>
     </Provider>
   );
 }
